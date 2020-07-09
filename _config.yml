@@ -2,7 +2,7 @@
 title:               Oleg Shimchik
 tagline:             'Random thoughts'
 description:         'A blog about stuff'
-url:                 http://shimchik.net
+url:                 https://shimchik.net
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Oleg Shimchik
-  url:               http://shimchik.net
+  url:               https://shimchik.net
   email:             oleg@shimchik.net
 
 # Gems
